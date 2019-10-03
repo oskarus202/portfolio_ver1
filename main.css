@@ -686,3 +686,9 @@ p .lead text-light{
   color: #909090;
 }
 
+
+.display-3{
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2
+}
